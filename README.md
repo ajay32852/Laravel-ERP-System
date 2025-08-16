@@ -1,5 +1,3 @@
-<p align="center"><img src="logo.svg" width="300" alt="logo"></p>
-
 ## About Laravel-ERP-System
 
 ![file cover - Laravel-ERP-System](https://user-images.githubusercontent.com/109177230/202863559-2a38dd5b-9b91-4126-9c12-292df893132a.png)
